@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+personal_loan_dataset.csv
+Personal_Loan_EDA_Analysis.ipynb
+chart_*.png
+model_comparison.csv
